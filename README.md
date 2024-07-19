@@ -51,6 +51,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/lucasib1/lucasib1/output/snake.svg" alt="Snake animation" />
+
 
 ###
